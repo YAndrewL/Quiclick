@@ -2,6 +2,7 @@
 Quiclick is a python package provides analysis tools for RNA-seq and RNA editing analysis. We recommand exectue the files in an anaconda environment with python 3.x.
 
 **Due to some reasons from author, this project will no longer upgrade.**
+Check our [paper](https://www.science.org/doi/full/10.1126/science.abd8971) in RNA editing
 
 ## 1 Download and install
 
